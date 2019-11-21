@@ -1,0 +1,42 @@
+.container{
+    width: 375px;
+    margin: auto;
+    border: 1px solid black;
+    line-height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.holderName{
+    font-size: 25px;
+
+}
+.LogoImage{
+    width: 152px;
+}
+.contacts {
+    display: inline-flex;
+}
+.logoandTitle {
+    overflow: hidden;
+}
+.logoandTitle {
+    overflow: hidden;
+}
+
+.logo {
+    float: left;
+    border: 1px solid;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border-radius: 35px;
+}
+.logoTitle {
+    float: right;
+    background: black;
+    margin-right: 0px;
+    color: white;
+    padding: 43px 36px;
+    margin-top: 1px;
+    border-radius: 5px;
+    /* padding-right: 109px; */
+}
